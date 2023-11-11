@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="hackerbox3000" Modified="2023-11-11 20:21:20 +0000" ModID="5E46388C-CCFF-4AAA-8B32-FA0BD8E1F1DD">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="hackerbox3000" Modified="2023-11-11 23:48:06 +0000" ModID="B30D6414-01F0-4FB4-8FDC-148DE0D54E91">
     <Binder>
         <BinderItem ID="0" UUID="52D120EE-4618-4E8E-8CFD-C7DA14B5497A" Created="2023-11-11 10:32:32 +0000" Modified="2023-11-11 10:32:32 +0000" Type="DraftFolder">
             <Title>Draft</Title>
@@ -7,14 +7,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="4" UUID="F6E061AA-A0F4-439E-B921-9FA23C8D9F1A" Created="2023-11-11 10:42:58 +0000" Modified="2023-11-11 16:06:13 +0000" Type="Text">
+                <BinderItem ID="4" UUID="F6E061AA-A0F4-439E-B921-9FA23C8D9F1A" Created="2023-11-11 10:42:58 +0000" Modified="2023-11-11 22:16:43 +0000" Type="Text">
                     <Title>I really don’t think my ears should be dripping</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1415,1413</TextSelection>
+                        <TextSelection>1791,1791</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -25,18 +25,18 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>230,230</TextSelection>
+                        <TextSelection>7366,7366</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="8" UUID="F1617072-D47F-47D4-A0F3-A5A125E4AF08" Created="2023-11-11 13:46:13 +0000" Modified="2023-11-11 18:35:31 +0000" Type="Text">
+                <BinderItem ID="8" UUID="F1617072-D47F-47D4-A0F3-A5A125E4AF08" Created="2023-11-11 13:46:13 +0000" Modified="2023-11-11 20:39:16 +0000" Type="Text">
                     <Title>I’m getting kinda tired of waking up with no idea</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8465,8465</TextSelection>
+                        <TextSelection>9780,9780</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -47,7 +47,71 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>13886,13886</TextSelection>
+                        <TextSelection>9817,9817</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="53463B7E-D899-4089-81F8-0ABB86438D54" Created="2023-11-11 20:29:55 +0000" Modified="2023-11-11 23:47:57 +0000" Type="Text">
+                    <Title>I am slightly terrified that the beaked creature’s feet sound like claws more than webbed toes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11645,11645</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="6609B63F-E1B3-4808-8EA7-075D8E482E33" Created="2023-11-11 20:29:56 +0000" Modified="2023-11-11 20:29:56 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" UUID="3D019CA1-5EAD-4BAC-8290-5139CE4BCE3B" Created="2023-11-11 20:29:56 +0000" Modified="2023-11-11 20:29:56 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="50814C4A-BB7C-4FAA-8066-B08528BB08CD" Created="2023-11-11 20:29:56 +0000" Modified="2023-11-11 20:29:56 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="CF1A635F-3CB6-4A06-A989-33B26AF40E2F" Created="2023-11-11 20:29:56 +0000" Modified="2023-11-11 20:29:56 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" UUID="060C0CE4-B300-4BBF-A0EC-A08DCCC65939" Created="2023-11-11 20:29:56 +0000" Modified="2023-11-11 20:29:56 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" UUID="440C037D-CC5C-48D6-B6AC-9D93E92668AB" Created="2023-11-11 20:29:56 +0000" Modified="2023-11-11 20:29:56 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -59,13 +123,13 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="5" UUID="2BAF9878-0B1B-463E-8D74-798F8B9A3D7C" Created="2023-11-11 11:01:15 +0000" Modified="2023-11-11 18:12:23 +0000" Type="Text">
+                <BinderItem ID="5" UUID="2BAF9878-0B1B-463E-8D74-798F8B9A3D7C" Created="2023-11-11 11:01:15 +0000" Modified="2023-11-11 21:34:09 +0000" Type="Text">
                     <Title>NAMES</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17,17</TextSelection>
+                        <TextSelection>154,154</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -76,26 +140,6 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-            <Children>
-                <BinderItem ID="3" UUID="B008840C-BBAB-4287-99B7-9042C65C90FB" Created="2023-11-11 10:32:32 +0000" Modified="2023-11-11 10:57:06 +0000" Type="Text">
-                    <Title>“</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="7" UUID="D96CB67D-5D5D-40D4-88BA-957FDAD27259" Created="2023-11-11 13:45:32 +0000" Modified="2023-11-11 13:45:32 +0000" Type="Text">
-                    <Title></Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <LabelSettings>
@@ -126,7 +170,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="528e86f3-f0bf-4cc1-b2f0-65f2148a02b0" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">Jiktar</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">human</SearchSettings>
         </Collection>
     </Collections>
     <ProjectTargets Notify="No">
