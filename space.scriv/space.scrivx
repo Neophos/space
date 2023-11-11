@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="hackerbox3000" Modified="2023-11-11 16:06:17 +0000" ModID="7B2218E3-642E-4E54-97F1-DFB3AB82976B">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="hackerbox3000" Modified="2023-11-11 20:21:20 +0000" ModID="5E46388C-CCFF-4AAA-8B32-FA0BD8E1F1DD">
     <Binder>
         <BinderItem ID="0" UUID="52D120EE-4618-4E8E-8CFD-C7DA14B5497A" Created="2023-11-11 10:32:32 +0000" Modified="2023-11-11 10:32:32 +0000" Type="DraftFolder">
             <Title>Draft</Title>
@@ -14,7 +14,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1,1</TextSelection>
+                        <TextSelection>1415,1413</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -25,18 +25,29 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1,1</TextSelection>
+                        <TextSelection>230,230</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="8" UUID="F1617072-D47F-47D4-A0F3-A5A125E4AF08" Created="2023-11-11 13:46:13 +0000" Modified="2023-11-11 16:05:56 +0000" Type="Text">
+                <BinderItem ID="8" UUID="F1617072-D47F-47D4-A0F3-A5A125E4AF08" Created="2023-11-11 13:46:13 +0000" Modified="2023-11-11 18:35:31 +0000" Type="Text">
                     <Title>I’m getting kinda tired of waking up with no idea</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2,2</TextSelection>
+                        <TextSelection>8465,8465</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="66E187F3-1DD8-44DA-B3DD-E0C81A27965B" Created="2023-11-11 17:45:29 +0000" Modified="2023-11-11 20:21:05 +0000" Type="Text">
+                    <Title>Personally, I wanted to cut through the silence by telling the voice to go fuck itself</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13886,13886</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -48,13 +59,13 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="5" UUID="2BAF9878-0B1B-463E-8D74-798F8B9A3D7C" Created="2023-11-11 11:01:15 +0000" Modified="2023-11-11 11:03:17 +0000" Type="Text">
+                <BinderItem ID="5" UUID="2BAF9878-0B1B-463E-8D74-798F8B9A3D7C" Created="2023-11-11 11:01:15 +0000" Modified="2023-11-11 18:12:23 +0000" Type="Text">
                     <Title>NAMES</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>59,59</TextSelection>
+                        <TextSelection>17,17</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -115,7 +126,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="528e86f3-f0bf-4cc1-b2f0-65f2148a02b0" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">Jiktar</SearchSettings>
         </Collection>
     </Collections>
     <ProjectTargets Notify="No">
