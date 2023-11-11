@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="hackerbox3000" Modified="2023-11-11 13:45:14 +0000" ModID="9C97FCC6-E090-4F3C-BAC7-70160388B3E9">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="hackerbox3000" Modified="2023-11-11 16:06:17 +0000" ModID="7B2218E3-642E-4E54-97F1-DFB3AB82976B">
     <Binder>
         <BinderItem ID="0" UUID="52D120EE-4618-4E8E-8CFD-C7DA14B5497A" Created="2023-11-11 10:32:32 +0000" Modified="2023-11-11 10:32:32 +0000" Type="DraftFolder">
             <Title>Draft</Title>
@@ -7,23 +7,36 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="4" UUID="F6E061AA-A0F4-439E-B921-9FA23C8D9F1A" Created="2023-11-11 10:42:58 +0000" Modified="2023-11-11 11:45:20 +0000" Type="Text">
+                <BinderItem ID="4" UUID="F6E061AA-A0F4-439E-B921-9FA23C8D9F1A" Created="2023-11-11 10:42:58 +0000" Modified="2023-11-11 16:06:13 +0000" Type="Text">
                     <Title>I really don’t think my ears should be dripping</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5811,5811</TextSelection>
+                        <TextSelection>1,1</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" UUID="48621F5F-6B73-4DBD-94EB-3727C97701F6" Created="2023-11-11 12:11:45 +0000" Modified="2023-11-11 13:45:04 +0000" Type="Text">
+                <BinderItem ID="6" UUID="48621F5F-6B73-4DBD-94EB-3727C97701F6" Created="2023-11-11 12:11:45 +0000" Modified="2023-11-11 16:06:05 +0000" Type="Text">
                     <Title>I blink open my eyes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>12217,12217</TextSelection>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="F1617072-D47F-47D4-A0F3-A5A125E4AF08" Created="2023-11-11 13:46:13 +0000" Modified="2023-11-11 16:05:56 +0000" Type="Text">
+                    <Title>I’m getting kinda tired of waking up with no idea</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2,2</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -55,6 +68,15 @@
             <Children>
                 <BinderItem ID="3" UUID="B008840C-BBAB-4287-99B7-9042C65C90FB" Created="2023-11-11 10:32:32 +0000" Modified="2023-11-11 10:57:06 +0000" Type="Text">
                     <Title>“</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="D96CB67D-5D5D-40D4-88BA-957FDAD27259" Created="2023-11-11 13:45:32 +0000" Modified="2023-11-11 13:45:32 +0000" Type="Text">
+                    <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
